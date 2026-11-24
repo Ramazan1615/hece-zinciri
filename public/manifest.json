@@ -1,0 +1,10 @@
+{
+  "name": "Hece Zinciri - Türkçe Bulmaca",
+  "short_name": "Hece Zinciri",
+  "description": "Block Blast akışında internetsiz Türkçe hece birleştirme bulmaca oyunu.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "orientation": "portrait"
+}
